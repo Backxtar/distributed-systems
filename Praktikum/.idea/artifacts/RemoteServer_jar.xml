@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RemoteServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemoteServer_jar</output-path>
+    <root id="archive" name="Praktikum.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Praktikum" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.7.32/slf4j-simple-1.7.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

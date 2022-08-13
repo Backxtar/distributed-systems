@@ -1,0 +1,8 @@
+Sensor Database:
+----------------------------
+Identifier: 999999
+Sensor: 1111 | 9090
+Manufacturer: Siemens
+Temp: 31
+Timestamp: 12.07.2022 09:14
+----------------------------
